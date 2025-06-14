@@ -1,5 +1,11 @@
 # 🧠 Multi-Framework Quantum Simulator
 
+
+Mom, can we get a quantum simulator?
+We have a quantum simulator at home.
+Quantum simulator at home: 
+
+
 A lightweight quantum circuit simulator in Python that supports multiple quantum programming frameworks including **Qiskit** and **Cirq**. This simulator allows you to:
 
 - Build and run circuits manually using native gate definitions
